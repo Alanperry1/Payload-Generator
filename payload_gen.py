@@ -1,3 +1,6 @@
+import os
+
+os.system("cls||clear")
 print(r''' 
  .----------------.  .----------------.  .----------------.  .-----------------. .----------------.  .----------------. 
 | .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
@@ -13,12 +16,7 @@ print(r'''
 ''')
 print('[+] Welcome to THANOS')
 print('[+]Loading.....................')
-
-
-import os
-
-os.system("cls||clear")
-print("created by NiekGevers")
+print("created by TheCyberVault")
 print("1. powershell reverse shell-small")
 print("2. powershell reverse shell-big")
 question = input("choose your undetectable payload 1/2 => ")
