@@ -1,4 +1,4 @@
-# Payload Generator (THANOS)
+# Reverse Shell Payload Generator (THANOS)
 
 **THANOS** is a Python script designed to create undetectable PowerShell reverse shell payloads. It provides options to generate two types of payloads (small and big) and includes an optional fake error message feature to disguise malicious activities
 
